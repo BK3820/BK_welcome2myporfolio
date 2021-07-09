@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+  }  
+  
+    /* ---- particles.js container ---- */ 
+    
+    #particles-js{ 
+    position:relative;
+    z-index:2;
+    background-color:#ffffff; 
+    }
+    
+  
+  
